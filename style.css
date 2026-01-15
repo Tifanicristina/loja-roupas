@@ -1,0 +1,23 @@
+Index.html.<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+    <meta charset="UTF-8">
+    <title>Loja Fashion</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+
+<header>
+    <h1>👗 Loja Fashion</h1>
+    <p>Moda feminina e masculina</p>
+</header>
+
+<main class="produtos">
+
+    <div class="produto">
+        <h2>Camiseta Básica</h2>
+        <p>R$ 59,90</p>
+        <button onclick="comprar()">Comprar</button>
+    </div>
+
+    <div
